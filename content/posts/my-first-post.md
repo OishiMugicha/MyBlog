@@ -1,10 +1,11 @@
 +++
 date = '2025-11-06T19:58:15+09:00'
 draft = true
-title = '初めてのポスト'
+title = 'こんにちは'
 +++
-## イントロ
 
-This is **太字** text, and this is *強調* text.
+Hugo + Github Pages を使って、ホームページを作ってみました。
 
-Visit the [Hugo](https://gohugo.io) website!
+何に使うかは未定。
+
+{{< form-contact action="https://formspree.io/your@email.com" >}}

@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'ja'
-title = 'Nagaokaのサイト'
+title = 'Mugichaのホームページ'
 theme = 'ananke'
 [caches]
   [caches.images]
